@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front End
 - 🌱 I’m currently learning Front End, Fund, Fitness, Boxing, Hiking
-- 💬 Ask me about anything related to Front End, Fund, Fitness, Boxing, Hiking
-- 📫 How to reach me: allenpzx@icloud.com
-- ⚡ Fun fact: ...
+- 💼 I’m currently looking for a front-end job opportunity in a big factory in Shanghai
