@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front End
 - 🌱 I’m currently learning Front End, Fund, Fitness, Boxing, Hiking
-- 💼 I’m currently looking for a front-end job opportunity in a big factory in Shanghai
