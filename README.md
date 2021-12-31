@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🏫 I’m currently learning PWA, threejs
+- 💻 I'm also very interested in the server in the study
 -->
 
 - 💼 I’m currently working on Front End
-<!-- - 🏫 I’m currently learning PWA, threejs -->
-<!-- - 💻 I'm also very interested in the server in the study -->
 - 💗 Writing code is my job and my love
 - 🙆 Hope to work in a company that respects technology
